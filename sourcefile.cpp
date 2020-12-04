@@ -1,3 +1,14 @@
+
+/*
+
+Title : Logsys
+
+Author : Ertan Yağmur (exproot)
+
+Date : 1 Oct 2020
+
+*/
+
 #include <iostream>
 #include <fstream>
 #include <string>
